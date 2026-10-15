@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'gsmedical.apps.GsmedicalConfig',
     'rest_framework',
-    'corsheader'
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
