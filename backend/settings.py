@@ -55,7 +55,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOW_ALL_ORIGINS = [
-    "https://med.freedev.app",
+    "https://med.freedev.app/",
 ]  
 
 ROOT_URLCONF = 'backend.urls'
